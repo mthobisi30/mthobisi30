@@ -1,7 +1,7 @@
 
-# 👨‍💻 Mthobisi Nxumalo | Aspiring Software Developer
+# 👨‍💻 Mthobisi Nxumalo | Full Stack Software Developer
 
-Hi, I'm **Mthobisi Nxumalo** — an aspiring Software Developer and IT graduate from **North-West University**, based in **Johannesburg, South Africa**.
+Hi, I'm **Mthobisi Nxumalo** — a Full Stack Software Developer and IT graduate from **North-West University**, based in **Johannesburg, South Africa**.
 
 ## 💡 About Me
 
@@ -9,9 +9,10 @@ I’m passionate about building clean, functional, and scalable applications tha
 
 ## 🔧 Tech Stack
 
-- **Languages:** C#, Python, JavaScript, Java, C++, SQL  
-- **Web:** HTML5, CSS, Flask, ASP.NET Core, Tailwind, Bootstrap  
-- **Databases:** SQL Server, MySQL, SQLite, OracleDB  
+- **Languages:** C#, Python, JavaScript, Java, C++, SQL, TypeScript  
+- **Web:** HTML5, CSS, Flask, ASP.NET Core, Tailwind, Bootstrap
+- **Mobile:** Flutter, Dart, Kotlin, Android, React Native
+- **Databases:** SQL Server, MySQL, SQLite, OracleDB, Postgres 
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Azure, Power BI  
 - **Concepts:** CRUD, MVC, REST APIs, Responsive Design, Agile, CI/CD Pipelines
 
